@@ -19,4 +19,3 @@ nimblegate is free for non-commercial use. You can support the work through
 need a [licence](https://github.com/nimblegate/nimblegate/blob/main/COMMERCIAL.md).
 
 Contact: contact@nimblegate.com
-```
