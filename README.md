@@ -12,10 +12,11 @@ Self-hosted software tools and independent research in combinatorics and embedde
 **Research**
 
 - **n-queens research**: the preprint "The fewest and the most toroidal conflicts of an n-queens solution"
-  (Jouko Kines, 2026; [doi:10.5281/zenodo.23755751](https://doi.org/10.5281/zenodo.23755751)), whose main theorems are verified in Lean 4; the code,
-  data and Lean proofs are in the Zenodo record. Notes and interactive pages:
-  [pieceofdiy.com/queens](https://pieceofdiy.com/queens/). The [queens-notes](https://github.com/jookis/queens-notes)
-  repository points to both.
+  (Jouko Kines, 2026; [doi:10.5281/zenodo.23755751](https://doi.org/10.5281/zenodo.23755751)), whose main theorems
+  are verified in Lean 4. The code, data and Lean proofs are in the Zenodo record; the Lean proofs are also in
+  [toroidal-queens-lean](https://github.com/jookis/toroidal-queens-lean), which rebuilds and checks them on every
+  change. Notes and interactive pages: [pieceofdiy.com/queens](https://pieceofdiy.com/queens/). The
+  [queens-notes](https://github.com/jookis/queens-notes) repository points to both.
 
 **Licences and support**
 
